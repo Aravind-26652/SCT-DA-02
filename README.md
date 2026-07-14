@@ -1,0 +1,1 @@
+This task analyses cleaned Superstore sales data across customers, regions, products, shipping methods, sales, discounts, quantities, and profit. The goal is to identify sales trends, profitable categories, customer segments, regional performance, and areas where discounts may reduce profitability.
