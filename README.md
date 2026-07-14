@@ -32,8 +32,7 @@ The objective of this project is to clean and prepare a raw dataset using **Pyth
 
 - Python
 - Pandas
-- Jupyter Notebook
-- Google Colab
+- Visual studio code
 
 ---
 
